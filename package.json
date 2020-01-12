@@ -1,0 +1,23 @@
+{
+  "name": "scry-router",
+  "version": "1.0.0",
+  "description": "reverse proxy to route incoming requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carl-wong/scry-router.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Carl Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carl-wong/scry-router/issues"
+  },
+  "homepage": "https://github.com/carl-wong/scry-router#readme"
+}
