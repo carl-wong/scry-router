@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/decktech",
+      "address": "http://localhost:1001"
+    },
+    {
+      "route": "/decktech.api",
+      "address": "http://localhost:1002"
+    }
+  ]
+}
