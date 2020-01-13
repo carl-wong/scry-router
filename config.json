@@ -2,11 +2,11 @@
     "routes": [
         {
             "address": "http://localhost:1001",
-            "route": "/decktech"
+            "route": "/decktech/"
         },
         {
             "address": "http://localhost:1002",
-            "route": "/decktech.api"
+            "route": "/decktech.api/"
         }
     ]
 }
