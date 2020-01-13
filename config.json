@@ -6,7 +6,7 @@
         },
         {
             "address": "http://localhost:1002",
-            "route": "/decktech.api/"
+            "route": "/decktech-api/"
         }
     ]
 }
