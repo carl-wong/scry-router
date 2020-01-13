@@ -16,6 +16,7 @@ for (route of routes) {
     );
 }
 
-app.listen(1337, () => {
-    console.log('scry-router listening on port 80');
+const port = 1337;
+app.listen(port, () => {
+    console.log(`scry-router listening on port ${port}`);
 });
