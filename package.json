@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/carl-wong/scry-router#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.20.0"
   }
 }
